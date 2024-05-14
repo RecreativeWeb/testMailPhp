@@ -34,6 +34,6 @@ if (mail($to, $subject, $message, $headers)) {
     <title>Document</title>
 </head>
 <body>
-   
+   <h1>TEST DE LA FONCTION MAIL DE PHP</h1>
 </body>
 </html>
